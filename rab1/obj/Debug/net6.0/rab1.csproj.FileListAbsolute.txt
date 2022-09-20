@@ -1,0 +1,15 @@
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.csproj.AssemblyReference.cache
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.AssemblyInfoInputs.cache
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.AssemblyInfo.cs
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.csproj.CoreCompileInputs.cache
+C:\Users\NOOB\Desktop\sent20\rab1\bin\Debug\net6.0\rab1.exe
+C:\Users\NOOB\Desktop\sent20\rab1\bin\Debug\net6.0\rab1.deps.json
+C:\Users\NOOB\Desktop\sent20\rab1\bin\Debug\net6.0\rab1.runtimeconfig.json
+C:\Users\NOOB\Desktop\sent20\rab1\bin\Debug\net6.0\rab1.dll
+C:\Users\NOOB\Desktop\sent20\rab1\bin\Debug\net6.0\rab1.pdb
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.dll
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\refint\rab1.dll
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.pdb
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\rab1.genruntimeconfig.cache
+C:\Users\NOOB\Desktop\sent20\rab1\obj\Debug\net6.0\ref\rab1.dll
